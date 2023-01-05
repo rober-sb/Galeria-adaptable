@@ -38,7 +38,7 @@ _4. Si por alguna razón, no visualiza los datos puede colocar en la terminal "p
 En mi caso que utilicé LARAGON.
 
 ```
-1. Creé una carpeta llamado proyecto_blog dentro de root y luego coloco dentro de proyecto_blog los archivos del repositorio.
+1. Creé una carpeta dentro de root y luego coloco dentro los archivos del repositorio.
 
 ```
 ```
