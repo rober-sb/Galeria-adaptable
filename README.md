@@ -1,4 +1,4 @@
-# Blog
+# Galeria-adaptable
 
 _Pequeño proyecto de una galeria adaptable a dispositivos moviles. _
 
